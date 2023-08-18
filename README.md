@@ -40,6 +40,9 @@ if you wish to change the colorscheme look for this in the aforementioned config
 
 if you wish to change anything else a quick google search should do the trick.
 
+### Note
+After every change to the config you need to recompile the terminal as the source code itself is being modified
+
 # Credits
 * This project was made possible thanks to [https://st.suckless.org/](https://st.suckless.org/)
 * All patches were supplied by [https://st.suckless.org/patches/](https://st.suckless.org/patches/)
