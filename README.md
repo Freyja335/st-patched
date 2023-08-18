@@ -1,7 +1,7 @@
 # st-patched
 A custom-made fork of the suckless st-terminal
 
-# Why I made this?
+# Why I made this
 This fork of st-terminal has very few patches (found in the "Patches" folder) and it was made with ease of use in mind.
 It was made so an average user will have no trouble using it right out of the box and for those who desire a lightweight terminal that works
 
