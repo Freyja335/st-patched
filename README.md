@@ -14,6 +14,15 @@ To uninstall inside the repo execute:
   ```bash
   sudo make clean uninstall
   ```
+Find more patches at [suckless.org](https://st.suckless.org/patches/):
+```
+# Apply a new patch
+patch -p# Patches/patch_name.diff   # = any number 
+
+# Remove an existing patch
+patch -R Patches/patch_name.diff
+```
+
 Warning: DO NOT delete the repo simply move it somewhere where is not in the way
 
 # Keyboard Shortcuts
