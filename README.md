@@ -26,7 +26,7 @@ Zoom Out    | `ctrl` + `shift` + `PageDown`
 Reset Zoom  | `ctrl` + `shift` + `Home`
 Scroll Up   | `shift` + `PageUp`
 Scroll Down | `shift` + `PageDown`
-
+Scroll      | `scrollwheel`
 
 # Config
 if you wish to change the Font look for this in the config.h or config.def.h
