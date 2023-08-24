@@ -6,7 +6,11 @@ This fork of st-terminal has very few patches (found in the "Patches" folder) an
 It was made so an average user will have no trouble using it right out of the box and for those who desire a lightweight terminal that works
 
 # How to install/uninstall
-To install, clone the repo then ,inside the repo, execute:
+First, clone the repo:
+```bash
+git clone https://github.com/Freyja335/st-patched.git
+```
+To install, inside the repo, execute:
 ```bash
 sudo make clean install
 ```
