@@ -5,7 +5,7 @@ A custom-made fork of the suckless st-terminal
 This fork of st-terminal has very few patches (found in the "Patches" folder) and it was made with ease of use in mind.
 It was made so an average user will have no trouble using it right out of the box and for those who desire a lightweight terminal that works
 
-# Why should i use this and not a hardware-accelerated terminal
+# Why should i use this and not a hardware-accelerated terminal?
 As you probably know hardware-accelerated terminals (alacritty, kitty, etc) are faster than traditional terminals because they offload some of the work to the gpu, but to achieve that
 they need to load the OpenGL drivers which can take up a lot of RAM (eg alacritty takes 100+MB on my system just being open). 
 This is where st comes in. Because it does not utilize the gpu it does not need to load the OpenGL drivers and so (at least on my system) it takes up only around 10MB of RAM,
