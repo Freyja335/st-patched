@@ -38,7 +38,7 @@ Find more patches at [suckless.org](https://st.suckless.org/patches/):
 Warning: DO NOT delete the repo, simply move it somewhere where is not in the way
 
 # Keyboard Shortcuts
-Action      | Key Combination
+Action      | Keybind
 ---         | ---
 Copy        | `ctrl` + `shift` + `c`
 Paste       | `ctrl` + `shift` + `v`
