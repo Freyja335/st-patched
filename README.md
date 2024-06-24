@@ -1,5 +1,5 @@
 # st-patched
-A custom-made fork of the suckless st-terminal
+A custom-made fork of the suckless terminal
 
 # Why I made this
 This fork of st-terminal has very few patches (found in the "Patches" folder) and it was made with ease of use in mind.
@@ -50,19 +50,23 @@ Scroll Down | `shift` + `PageDown`
 Scroll      | `scrollwheel`
 
 # Config
-if you wish to change the Font, look for this in the config.h or config.def.h
-![2023:08:18:14:17:31](https://github.com/Freyja335/st-patched/assets/92382538/12ab458b-6408-4150-8088-de06b424dced)
+if you wish to change the Font, look for this in the config.def.h
+![2024:06:25:00:46:49](https://github.com/Freyja335/st-patched/assets/92382538/66f83a11-ca69-4fe2-89a8-a92f489406b3)
 
-if you wish to change the opacity, look for this in the aforementioned configs
-![2023:08:18:14:18:53](https://github.com/Freyja335/st-patched/assets/92382538/93192a2f-b2ea-4d4e-8f22-a4ba439654fc)
 
-if you wish to change the colorscheme, look for this in the aforementioned configs
-![2023:08:18:14:20:10](https://github.com/Freyja335/st-patched/assets/92382538/a243fd68-3baf-4215-943b-e20a23f7a408)
+if you wish to change the opacity, look for this in the aforementioned config
+![2024:06:25:00:47:27](https://github.com/Freyja335/st-patched/assets/92382538/c3be6a17-8970-41f0-996d-61764fd33807)
+
+
+if you wish to change the colorscheme, look for this in the aforementioned config
+![2024:06:25:00:48:09](https://github.com/Freyja335/st-patched/assets/92382538/53f3e4bb-c3cd-496c-9750-4d36eed9a303)
+
 
 if you wish to change anything else a quick google search should do the trick.
 
 ### Note
-After every change to the config you need to recompile the terminal as the source code itself is being modified
+* After every change to the config you need to recompile the terminal as the source code itself is being modified.
+* You may also need to delete the config.h file before recompiling for the changes to take effect.
 
 # Credits
 * This project was made possible thanks to [https://st.suckless.org/](https://st.suckless.org/)
