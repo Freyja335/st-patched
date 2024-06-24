@@ -45,8 +45,8 @@ Paste       | `ctrl` + `shift` + `v`
 Zoom In     | `ctrl` + `shift` + `PageUp`
 Zoom Out    | `ctrl` + `shift` + `PageDown`
 Reset Zoom  | `ctrl` + `shift` + `Home`
-Scroll Up   | `shift` + `PageUp`
-Scroll Down | `shift` + `PageDown`
+Scroll Up   | `PageUp`
+Scroll Down | `PageDown`
 Scroll      | `scrollwheel`
 
 # Config
