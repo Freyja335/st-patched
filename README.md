@@ -7,8 +7,8 @@ It was made so an average user will have no trouble using it right out of the bo
 
 # Why should i use this and not a hardware-accelerated terminal?
 As you probably know hardware-accelerated terminals (alacritty, kitty, etc) are faster than traditional terminals because they offload some of the work to the gpu, but to achieve that
-they need to load the OpenGL drivers which can take up a lot of RAM (eg alacritty takes 100+MB on my system just being open). 
-This is where st comes in. Because it does not utilize the gpu it does not need to load the OpenGL drivers and so (at least on my system) it takes up only around 10MB of RAM,
+they need to load the OpenGL drivers which can take up a lot of RAM (e.g. alacritty takes 100+ MB on my system just being open). 
+This is where st comes in. Because it does not utilize the gpu it does not need to load the OpenGL drivers and because it is written using the very fast C programming language (at least on my system) it takes up only around 10MB of RAM,
 thus making st an ideal terminal for an old or under-speced computer
 
 
@@ -42,8 +42,8 @@ Action      | Keybind
 ---         | ---
 Copy        | `ctrl` + `shift` + `c`
 Paste       | `ctrl` + `shift` + `v`
-Zoom In     | `ctrl` + `shift` + `PageUp`
-Zoom Out    | `ctrl` + `shift` + `PageDown`
+Zoom In     | `ctrl` + `shift` + `+`
+Zoom Out    | `ctrl` + `shift` + `-`
 Reset Zoom  | `ctrl` + `shift` + `Home`
 Scroll Up   | `PageUp`
 Scroll Down | `PageDown`
