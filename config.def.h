@@ -8,7 +8,7 @@
 static char *font = "Monospace:pixelsize=18:type=bold:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-/*     "Symbols Nerd Font Mono:pixelsize=16:antialias=true:autohint=true", */
+     "Symbols Nerd Font Mono:pixelsize=16:antialias=true:autohint=true",
 /*     "Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*     "Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
 };
